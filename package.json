@@ -1,0 +1,29 @@
+{
+  "name": "reload4-html-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Reloads browser when your html changes for webpack4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sai Kiran Anagani <saikiran@prakriyaacademy.com>",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^1.4.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakriya/reload4-html-webpack-plugin.git"
+  },
+  "keywords": [
+    "reload",
+    "html",
+    "webpack",
+    "plugin",
+    "webpack 4"
+  ],
+  "bugs": {
+    "url": "https://github.com/prakriya/reload4-html-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/prakriya/reload4-html-webpack-plugin#readme"
+}
