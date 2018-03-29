@@ -1,6 +1,6 @@
 {
-  "name": "reload4-html-webpack-plugin",
-  "version": "1.0.0",
+  "name": "@prakriya/reload4-html-webpack-plugin",
+  "version": "1.0.1",
   "description": "Reloads browser when your html changes for webpack4",
   "main": "index.js",
   "scripts": {
