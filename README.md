@@ -12,7 +12,7 @@ This plugin uses port 8323 so make sure its free
 ```javascript
 // in webpack.config.js
 
-var Reload4Plugin = require("reload4-html-webpack-plugin");
+var Reload4Plugin = require("@prakriya/reload4-html-webpack-plugin");
 
 //
 
